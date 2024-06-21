@@ -8,10 +8,10 @@ It also checks how many people with **higher education** (<span style="color:gre
 The tool also identifies the **country** with the highest percentage of high earners and the most common high-paying **job** in India. Overall, the Demographic Data Analyzer helps to understand **patterns and trends** in the demographic data. 
 
 The Files on this repo are
-1. demographic_data_analyser.ipynb >> This files is an interactive Jupyter Notebook file
+1. **demographic_data_analyser.ipynb** >> This files is an interactive Jupyter Notebook file
 <span style="color=navy" >The following files are pure python files, we have the main file which runs the demographic file and the tes_module file which runs the tests on the demographic file, to make sure everything is as it is Suposed to be</span>
-2. demographic_data_analyser.py  
-3. main.py
-4. test_module.py
+2. **demographic_data_analyser.py** 
+3. **main.py**
+4. **test_module.py**
 
 ![green-divider](https://user-images.githubusercontent.com/7065401/52071924-c003ad80-2562-11e9-8297-1c6595f8a7ff.png)
